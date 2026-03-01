@@ -24,20 +24,8 @@ The pipeline fetches all available trip data from the API and loads it into a ta
 ![Answer for Q1](images/Q1.png)
 
 
-**Question 2: What proportion of trips are paid with credit card?**  
-**Answer:** 26.66%
+**Question 2:**
+![Answer for Q2](images/Q2.png)
 
-**Question 3: What is the total amount of money generated in tips?**  
-**Answer:** $6,063.41
-
-> I used a combination of AI-assisted prompts and manual exploration of the dataset to find these answers. The pipeline made it easy to query aggregated results quickly.
-
----
-
-## Usage
-
-1. Clone the repository:
-
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+**Question 3:**
+![Answer for Q3](images/Q3.png)
