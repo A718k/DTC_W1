@@ -21,7 +21,7 @@ The pipeline fetches all available trip data from the API and loads it into a ta
 ## Workshop Questions and Answers
 
 **Question 1:** 
-![Answer for Q1](images/Q1)
+![Answer for Q1](images/Q1.png)
 
 
 **Question 2: What proportion of trips are paid with credit card?**  
